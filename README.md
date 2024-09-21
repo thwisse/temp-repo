@@ -8,9 +8,7 @@ Davranış Kuralları (Code of Conduct), topluluğa bir takım gereksiz kurallar
 
 Bu doküman, topluluk kurulurken tanımlanmıştır ve bir versiyon kontrol sistemi üzerinden ilan edilmiştir. Daha sonra yapılacak olan herhangi bir değişiklik bu sistem aracılığıyla incelenebilir.
 
----
-
-### Etik Değerler
+## Etik Değerler
 
 GSOC,
 
